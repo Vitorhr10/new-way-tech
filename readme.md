@@ -3,15 +3,14 @@
 <head>
 	<meta name="viewport" content="width=device-width" />
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<title>WordPress &#8250; Leia-me</title>
     <link rel="stylesheet" href="wp-admin/css/install.css?ver=20100228" type="text/css" />
 </head>
 <body>
-<h1 id="logo">
-	<a href="https://wordpress.org/"><img alt="WordPress" src="wp-admin/images/wordpress-logo.png" /></a>
-	<br /> Versão 5.3
-</h1>
-<p style="text-align: center">Plataforma de publicação semântica pessoal</p>
+
+<h4 align="center">
+    <img alt="New Way Tech" title="#nwt" width="350px" src=".github/nwt-web.gif">
+		<br /> Versão 5.3
+</h4>
 
 <h2>Saudações</h2>
 <p>O WordPress é um projeto muito especial para mim. Todo desenvolvedor e colaborador acrescenta algo único nessa mistura, e juntos nós criamos algo bonito do qual me orgulho de fazer parte. Milhares de horas foram investidas no WordPress, e nós nos dedicamos a melhorá-lo todos os dias. Obrigado por torná-lo parte de seu mundo.</p>
@@ -86,11 +85,6 @@
 	<li>Se tiver qualquer sugestão, ideias ou comentários, ou se você (glup!) encontrou um erro, participe dos <a href="https://br.wordpress.org/support/">fóruns de suporte</a>.</li>
 	<li>O WordPress tem uma <abbr title="Interface de programação de aplicações">API</abbr> de plugin robusta que facilita a criação de plugins. Se você for um programador interessado em usar esta funcionalidade, consulte a <a href="https://developer.wordpress.org/plugins/">manual do desenvolvedor de plugins (em inglês)</a>. Não será necessário modificar qualquer código do núcleo.</li>
 </ul>
-
-<h2>Espalhe o amor</h2>
-<p>O WordPress não tem uma campanha de marketing multi milionária ou o patrocínio de celebridades, mas temos algo muito melhor: você. Se você gostar do WordPress, pense com carinho em recomendá-lo a um amigo ou configurá-lo para alguém com menos conhecimentos do que você, ou ainda, escrever para um autor que não conheça o WordPress.</p>
-
-<p>O WordPress é a continuação oficial do <a href="http://cafelog.com/">b2/caf&#233;log</a>, de Michel V. O trabalho foi continuado pelos <a href="https://wordpress.org/about/">desenvolvedores do WordPress</a>. Se você quiser apoiar o WordPress, por favor, pense na possibilidade de fazer um <a href="https://wordpress.org/donate/" title="Doar para o WordPress">doação</a>.</p>
 
 <h2>Licença</h2>
 <p>O WordPress é um software livre, distribuido sob os termos da licença <abbr title="GNU General Public License (Licença Pública Geral)">GPL</abbr> versão 2 ou (à sua escolha) qualquer versão posterior. Veja <a href="license.txt">license.txt</a>.</p>
