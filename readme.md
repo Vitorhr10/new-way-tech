@@ -8,7 +8,7 @@
 <body>
 
 <h4 align="center">
-    <img alt="New Way Tech" title="#nwt" width="350px" src=".github/nwt-web.gif">
+    <img alt="New Way Tech" title="#nwt" width="550px" src=".github/nwt-web.gif">
 		<br /> Versão 5.3
 </h4>
 
